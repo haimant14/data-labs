@@ -17,7 +17,7 @@ $ grip -b README.md 8080 --user <your-github-username> --pass <your-github-passw
 ## Working on the Assignments
 
 **To work on your first assignment**, create a branch of your own with your name (change the branch name unless your name is John Doe):
-
+''
 ```
 $ git checkout -b john-doe
 ```
